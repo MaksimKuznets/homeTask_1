@@ -6,7 +6,7 @@ namespace homeTask_1
     {
         static void Main(string[] args)
         {
-            //Console.WriteLine("Hello World!") ;
+            //Console.WriteLine("Hello World!");
             //Задача- вывести в консоль максимальные и минимальные допустимые значения для
             //типов данных byte, short, int, long, float, double, uint, ulong.
             byte bMax = byte.MaxValue;
